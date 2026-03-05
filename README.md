@@ -1,2 +1,9 @@
-# javascript-basic
-JavaScript basic examples covering let, const, basic data types, and user input.
+# JavaScript Basics Practice
+
+- let, const, and var
+- Basic data types: string, number, boolean, undefined, null
+- Using typeof
+- User input with prompt()
+- Converting input to number
+
+Created for learning and practice.
